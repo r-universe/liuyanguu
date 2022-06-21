@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SHAPforxgboost"]
+	path = SHAPforxgboost
+	url = https://github.com/liuyanguu/shapforxgboost
+	shallow = true
+	registered = true
